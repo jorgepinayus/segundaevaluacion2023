@@ -28,7 +28,7 @@ int main(){
 			
 			break;
 		default:
-			cout<<"No has elegido ninguna opción valida"<<endl;
+			cout<<"No has elegido ninguna opciÃ³n valida"<<endl;
 		 break;
 	}
 }
