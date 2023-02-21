@@ -1,5 +1,5 @@
-//Instrucciones b·sicas
-#include<iostream>//LibrerÌa de cabecera
+//Instrucciones b√°sicas
+#include<iostream>//Librer√≠a de cabecera
 using namespace std;
 
 int main(){
